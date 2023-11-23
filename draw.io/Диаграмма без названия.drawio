@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T20:27:22.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5QHytgINqJSc3hWKCgfK" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T21:26:31.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9YZo0ysiCRc_vFpm4iXQ" version="22.1.3" type="github">
   <diagram name="Страница — 1" id="OUvadw4zVPrqldWL2w4g">
-    <mxGraphModel dx="7385" dy="2875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11816" dy="4600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,6 +612,33 @@
         </mxCell>
         <mxCell id="UFVAXjRFvTmgGs1mjnP9-110" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Пары&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3900" y="2410" width="198" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-111" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarBD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="345" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-112" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarMarket&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="450" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-113" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarDevSpace&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="565" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-114" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarBuildService&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="675" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-115" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarTestArea&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="785" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-116" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarOTA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="900" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-117" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarAi&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="1010" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-118" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarStorage&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="1127" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UFVAXjRFvTmgGs1mjnP9-119" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;laarComputeCloud&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="1231" width="440" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
