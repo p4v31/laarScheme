@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:18:38.535Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ztvnQXIC1kUKkYeX1HRY" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:30:30.060Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QQIa6l7fs8jDPi1FFvKv" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="ZqEQ2uIjSCoxPEkew0uO">
-    <mxGraphModel dx="6810" dy="4015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,8 +163,8 @@
         <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lead of Hardware&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="830" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-62" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Разработчик С&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="870" width="130" height="30" as="geometry" />
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-62" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Разработчик С/C++&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="870" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Разработчик Python&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="920" width="160" height="30" as="geometry" />
@@ -225,6 +225,57 @@
             <mxPoint x="3700" y="533.89" as="sourcePoint" />
             <mxPoint x="4130" y="533.89" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-82" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SPD Group Manager&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1722.25" y="588" width="237.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;C++ Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1722.25" y="635" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-85" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;C++ Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="635" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-86" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;C++ Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1722.25" y="675" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-89" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lead of Software&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1723.13" y="850" width="237.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-90" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Android Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1723.13" y="718" width="106.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-91" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;iOS Dev intern&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="718" width="106.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-99" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Go Devs Group Manager&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2999.13" y="671" width="237.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-100" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Go Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2999.13" y="718" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-101" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Go Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2999.13" y="760" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-102" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Go Dev&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3129.13" y="718" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-104" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DevOps intern&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2999.13" y="813" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-105" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DevOps&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2999.13" y="860" width="107.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-106" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Python Backend&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3129.13" y="760" width="107.75" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-107" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Front-End intern&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3129.13" y="821.5" width="107.75" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-108" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ML&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2999.13" y="900" width="40.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnLP0OA23K2Bo2pzQ6Bt-109" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ML&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="900" width="40.87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
